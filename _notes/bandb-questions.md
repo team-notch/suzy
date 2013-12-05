@@ -1,0 +1,12 @@
+# bed and breakfast Sous questions
+- what is the goal of the dashboard?
+- how does a user interact with the dashboard?
+- why do we need a dashboard?
+- can a user dirtily effect their site via the dashboard?
+- what does the dashboard look like when there is a first time user (sans data)?
+- what is sous? is sous the CMS/dashboard/tool? or is sous the fact we make things easier across the board?
+- What features/functions exist with the B&B site?
+- what do you need me to design for the site?
+- is it the same as the exist site just beautified?
+- do we have some flows draw up for the various stages of the app?
+- when do you expect/need to be finished with this?
