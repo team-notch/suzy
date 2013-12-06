@@ -50,12 +50,16 @@ Initial Questions:
 - Template Website Package: starts at $995 and takes 2-4 weeks
 - Custom Website Package: starts at $2,459 and takes 3-5week
 
- [[**Highland Group Medical Websites** | http://www.highlandgroup.net/medical-website-design/medical-website-pricing/content-management-website-pricing]]: pricing structure is based on features. The thing I like about this is it is simple. This or that...
-- Premium: $60/mo
-- Basic: $30/mo
-- Hosted: $10/mo
+**Highland Group Medical Websites** http://www.highlandgroup.net/medical-website-design/medical-website-pricing/content-management-website-pricing: pricing structure is based on website setup and adding features (both 1 time fees) then there are 3 monthly fees for hosting (w/ a 1 time fee). This is confusing and stupid. The lingo in here sucks. What the fuck is a Plan CMS-2?
+- Website Setup: $495 + $220/page
+- Practice Blog(WTF?): $250/mo
+- Base Hosting: $25 then $19.95/mo
+- Plan CMS-2: $25 then $19.95/mo
+- Plan CMS-3: $125 then $39.95/mo
 
 ## guesstimate on suzy pricing
+
+#### 
 
 ## fantastic resources
 
